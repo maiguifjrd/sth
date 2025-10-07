@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP_NAME="Steam Translator Helper"
-SCRIPT_NAME="steam-translator-helper.py"
+SCRIPT_NAME="sth.py"
 ICON_NAME="sth.png"
 DESKTOP_NAME="sth.desktop"
 
