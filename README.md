@@ -1,6 +1,8 @@
 # Steam Translator Helper
 Auxilia na instalação de traduções de jogos Steam via Proton
 
+GUI feita 100% com ChatGPT
+
 ## 🎬 Demonstração em Vídeo
 https://github.com/user-attachments/assets/8810ae6a-ccd3-4371-8209-1517dad9717e
 
