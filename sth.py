@@ -11,7 +11,7 @@ from PySide6.QtCore import Qt
 class TraductorGUI(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Steam/Proton Translator Helper")
+        self.setWindowTitle("Steam Translator Helper")
         self.setMinimumSize(600, 400)
         self.steam_path = os.path.expanduser("~/.local/share/Steam")
         self.proton_dir = os.path.join(self.steam_path, "compatibilitytools.d")
