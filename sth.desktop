@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Steam Translator Helper
+Exec=/home/$USER/.local/bin/sth.py
+Icon=/home/$USER/.icons/sth.png
+Type=Application
+Categories=Utility;
+Comment=Auxilia na instalação de traduções de jogos Steam via Proton
+
