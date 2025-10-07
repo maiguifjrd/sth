@@ -4,6 +4,11 @@ Auxilia na instalação de traduções de jogos Steam via Proton
 GUI feita 100% com ChatGPT
 
 
+## Requirements
+
+Python | PySide6
+
+
 ## Instalação:
 chmod +x install.sh && ./install.sh
 
