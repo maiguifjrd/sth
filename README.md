@@ -8,6 +8,9 @@ GUI feita 100% com ChatGPT
 
 Python | PySide6
 
+pip3 install pyside6
+
+
 
 ## Instalação:
 chmod +x install.sh && ./install.sh
